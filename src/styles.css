@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    margin:0px;
+    padding:0px;
+    background:rebeccapurple;
+}
+.container-fluid{
+    height: 100vh;
+    margin:0px;
+    padding-bottom: 2rem;
+    padding-left:2rem;
+    padding-right:2rem;
+    
+}
+.clearBtn{
+    background-color: White !important;
+    color:#ff0000 ;
+    font-weight: bold;
+}
+.clearBtn:hover{
+    color:#1d1ac2;
+}
